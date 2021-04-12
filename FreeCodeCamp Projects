@@ -1,0 +1,59 @@
+<main id="main">
+<h1 id="title"> Señora Sara Montiel!</h1>
+  <p>My Spanish "Marilyn Monroe"</p>
+  <figure id="img-div">
+    <img
+      id="image"
+   
+  src= "https://i.postimg.cc/nrLpyCT0/sara-montiel-26.jpg"
+         alt="Sara Montiel's headshot and signature"
+         />
+    
+    <figcaption id="img-caption">
+      Sara Montiel's headshot and signature.
+    </figcaption>
+  </figure>
+         
+<section id="tribute-info">
+    <h3 id="headline"> 
+      
+      <p>Here is a short bio of Sara (sometimes known as Sarita) Montiel's incredible life and career: </p>   
+      </h3>      
+    <ul>
+    
+     <li> March 10th, 1928 - Sara was born in Campo de Criptana, Ciudad Real, Castilla-La Mancha, Spain.</li>    
+
+<li> 1944 - At just 16 years old, she started to star in movies. Her first movie role was in Te Quiero Para Mi (I want you for myself). </li>
+      
+<li> In 1948 she became an international success with her first film outside of Spain. She led a long-term contract in Mexico. </li>
+
+      <li>Between 1950 to 1954 Montiel starred in over a dozen films.</li>
+
+      <li>1954 became successful in Hollywood (United States of America) in the movie “Vera Cruz”. </li>
+
+      <li>1956 she worked with Warner Bros. another Hollywood studio in the movie “Serenade”.</li>
+
+<li>1957 Montiel became the most popular actress and singer of 1957 and a national treasure for Spain. </li>
+
+<li>1958 La Violetera starring Montiel broke box-office records. The theme song “La Violetera” became her signature song. The soundtrack outsold Elvis Presley and Frank Sinatra in the world market. </li>
+
+<li>1974 Montiel retired from films and focused more on her singing career and stage performances.</li>
+
+      <li>1990’s Montiel branched out into television with her TV series “Sara Y Punto”.</li>
+
+      <li>2011 Montiel appeared in her son Zeus Tous’ music video “Sex Dance”. </li>
+
+<li>April 8th, 2013 Sara Montiel passed away at the age of 85 from congestive heart failure and was buried in the San Justo Cemetery in Madrid.</li>
+
+ <h3>     
+   <p> This is a short synopsis of Sara Montiel's life. You can find more information about Montiel's career in her 
+     
+      <a
+        id="tribute-link"
+        href="https://www.imdb.com/name/nm0600060/?ref_=nmmi_mi_nmg"
+        target="_blank"
+        >IMDB</a
+      >.
+    </h3>
+  </section>
+</main>
